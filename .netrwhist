@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/dan/Documents/dev/repaso-enarm/repaso-enarm-app-js/app/screens/repaso/simulation'
+let g:netrw_dirhist_8='/Users/dan/Documents/dev/repaso-enarm/repaso-enarm-app-js/app/screens/repaso'
+let g:netrw_dirhist_7='/Users/dan/Documents/dev/repaso-enarm/repaso-enarm-app-js/app/screens'
+let g:netrw_dirhist_6='/Users/dan/Documents/dev/repaso-enarm/repaso-enarm-app-js/app'
+let g:netrw_dirhist_5='/Users/dan/Documents/dev/repaso-enarm/repaso-enarm-app-js'
+let g:netrw_dirhist_4='/Users/dan/Documents'
+let g:netrw_dirhist_3='/Users/dan/Documents/dev/repaso-enarm/repaso-enarm-back'
+let g:netrw_dirhist_2='/Users/dan/Documents/dev/repaso-enarm/repaso-enarm-back/utils'
+let g:netrw_dirhist_1='/Users/dan/Documents/dev/repaso-enarm/repaso-enarm-back'
