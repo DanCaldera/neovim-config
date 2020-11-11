@@ -42,4 +42,5 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " Theme
 Plug 'vim-airline/vim-airline'
 " List ends here. Plugins become visible to Vim after this call.
+:imap ii <Esc>
 call plug#end()
